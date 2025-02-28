@@ -1,0 +1,13 @@
+[project]
+authors = ["Matt Fisher <mfisher87@gmail.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "presentation-debrief"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+preview = "quarto preview"
+
+[dependencies]
+quarto = ">=1.6.41,<2"

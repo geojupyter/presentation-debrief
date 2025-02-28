@@ -1,0 +1,22 @@
+project:
+  type: "website"
+
+website:
+  title: "GeoJupyter Debrief"
+  navbar:
+    left:
+      - href: "index.md"
+        text: "Home"
+      - href: "slides.md"
+        text: "Slides"
+
+format:
+  html:
+    from: "markdown+emoji"
+    theme:
+      - "cosmo"
+      - "brand"
+    css: "styles.css"
+    toc: true
+  revealjs:
+    from: "markdown+emoji"
