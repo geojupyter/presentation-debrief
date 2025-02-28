@@ -50,7 +50,7 @@ keeping you there.
 You cannot move freely between them.
 
 :bug: Proprietary systems are often [as buggy or
-buggier](https://www.reddit.com/r/ArcGIS/comments/1dp7308/i_feel_like_esri_releases_buggy_af_updates/) than open source alternatives.
+buggier](https://www.reddit.com/r/ArcGIS/comments/1dp7308/i_feel_like_esri_releases_buggy_af_updates/) than open source alternatives. `ERROR 99999999. Something unexpected caused the tool to fail` :boom:
 :::
 
 :::{.column width=25%}
@@ -67,6 +67,12 @@ making it harder to leave.
 Additionally, they often discover that they require more services than they initially
 assessed, and their costs increase unpredictably over time as it's easier to buy one
 more service than it is to migrate.
+
+Proprietary systems are often buggier than open source alternatives, but human biases
+like "sunk cost" cause us to be more forgiving towards software we've paid for. However,
+perhaps because of this reduced accountability to their users, proprietary tools are
+often still very buggy, with less respectful error messages than those found in
+community-owned software.
 :::
 
 ---
