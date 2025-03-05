@@ -152,15 +152,15 @@ Jupyter.
 ## GeoJupyter is... {.smaller}
 
 * 100% open source, modular and interoperable.
-* Cloud-native, can run anywhere (laptop, supercomputers, …)
+* Led at Berkeley, with US and international partners who are eager
 * Capable of:
     * Traditional GIS workloads.
     * Complex, code-driven workflows with earth/planetary data.
     * Leveraging the entire Scientific Python ecosystem.
+* Cloud-native, can run anywhere (laptop, supercomputers, …)
 * AI-ready
 * Locally controlled, private, secure
 * Vendor agnostic (including commercial AI)
-* Led at Berkeley, with US and international partners who are eager
 
 
 ## Who is GeoJupyter? {.smaller}
