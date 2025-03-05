@@ -138,6 +138,13 @@ geospatial data**.
 * Led at Berkeley, with US and international partners who are eager
 
 
+---
+
+:::{.placeholder style="margin: auto; width: 800px; height: 450px; background-color: lightgray; text-align: center"}
+Demo GIF
+:::
+
+
 ## Closing
 
 :::notes
