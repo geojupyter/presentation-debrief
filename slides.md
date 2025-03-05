@@ -206,6 +206,10 @@ Many more community members not shown.
 Demo GIF
 :::
 
+_TODO: A story for the demo.
+Continue with wildfire theme?
+Showcase working on a realistic problem with collaborative features._
+
 
 ## Closing
 
