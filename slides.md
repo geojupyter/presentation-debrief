@@ -210,10 +210,12 @@ Demo GIF
 ## Closing
 
 :::notes
-I've spoken about how this project stands to benefit the world, and I'd like to close by sharing how this work has affected me personally.
-Some mornings, I have to remind myself that this project is real and that I'm being supported to work on it.
-This mission is important, and I feel privileged to be taking part in it, and to be working with the talented and brilliant folks I am.
-Thank you for this wonderful opportunity to grow personally and professionally!
-
-TODO
+I've spoken about how this project stands to benefit the world, and I'd like to close by
+sharing how this work has affected me personally.
+Some mornings, I have to remind myself that this project is real and that I'm being
+supported to work on it.
+This mission is important to me as a career geospatial data practitioner, and I feel
+privileged to be taking part in it, and to be working with these talented and special
+people.
+Thank you everyone for this wonderful opportunity to grow personally and professionally!
 :::
