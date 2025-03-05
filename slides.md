@@ -4,7 +4,10 @@ subtitle: |
   💪 Enabling more researchers, educators, and learners to confidently engage with
   geospatial data
 title-slide-attributes:
-  data-notes: "TODO: Speaker notes!"
+  data-notes: |
+    Hi, I'm Matt, and I'll be briefly talking about GeoJupyter, a community which aims
+    to enable more researchers, educators, and learners to more confidently interact
+    and engage with data about our planet.
 format:
   revealjs:
     theme: "white"
@@ -13,34 +16,65 @@ format:
     slide-number: true
 ---
 
-## Why approachability is important {.smaller}
+
+_TODO: Show video instead?_
+
+![[When our community burned where was the satellite information?](https://www.linkedin.com/pulse/when-our-community-burned-where-satellite-information-pag%C3%A1n-phd-8rxwf/?trackingId=goJI9VniOZAI3RGuoPXysA%3D%3D)](/assets/la-fire-aerial.png)
+
+
+> ...we are failing the people and causes that need us the most.
+
+-- Brianna R. Pagán, PhD
+
+:::notes
+The status quo for working with publicly available geospatial data is that
+unfortunately, even very experienced practitioners struggle to leverage data about our
+planet when they need it the most.
+
+Dr. Brianna Pagán is a member of the geospatial community that both Fernando and I have
+been fortunate to work with and learn from, and we were heartbroken to hear the story of
+her loss in the Palisades fire in January this year. Brianna wrote about her experience:
+
+> I should be able to do this. I have a PhD in Remote Sensing, I have built satellite
+> data processing pipelines, I help manage one of the NASA satellite data centers, I
+> teach courses on climate resilience, adaptation and geoinformatics. [...]  and yet the
+> irony is that with all my experience I could not access the information **I knew
+> existed** to help our community.
+
+The status quo isn't working, and folks in the geospatial community are deeply aware of
+this.
+:::
+
+## Approachability is important {.smaller}
 
 ::::::columns
 
 :::{.column width=50%}
 * Science
     * Climate science
+    * Biodiversity
     * Engineering
 * Government & policy
     * Decision making
     * Transportation & urban planning
-    * Disaster response
+    * Disaster response & hazard management
 * Industry
     * Agriculture
     * Logistics
 :::
 
 :::{.column width=50%}
-![Geospatial data: the "crude oil" of modern data - GPT-4o](/assets/geospatial-data-as-crude-oil.png)
+![Geospatial data: the "crude oil" of modern science - Image by GPT-4o](/assets/geospatial-data-as-crude-oil.png)
 :::
 
 ::::::
 
 
 :::notes
-Every domain needs geospatial data, especially organizations fighting for our
-environment.
-These domains face shared challenges around working with geospatial data.
+The status quo isn't working, despite the fact that every domain needs geospatial data,
+especially organizations fighting for our environment.
+We think of geospatial data as the "crude oil" of modern science, and all of these
+domains face shared challenges around working with geospatial data.
 :::
 
 
@@ -88,19 +122,6 @@ human biases like "sunk cost" cause us to be more forgiving towards software we'
 for.
 Perhaps because of this reduced accountability to their users, proprietary tools also
 often offer less respectful error messages than those found in community-owned software.
-:::
-
-
-## [When our community burned, where was the satellite data?](https://www.linkedin.com/pulse/when-our-community-burned-where-satellite-information-pag%C3%A1n-phd-8rxwf/?trackingId=goJI9VniOZAI3RGuoPXysA%3D%3D)
-
->wake up and realize we are failing the people and causes that need us the most
-
--- Brianna R. Pagán, PhD
-
-:::notes
-The status quo isn't working.
-
-TODO
 :::
 
 
