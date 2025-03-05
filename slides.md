@@ -80,15 +80,13 @@ domains face shared challenges around working with geospatial data.
 
 ## Priorietary capture, vendor lock-in, monopoly
 
-
 ::::::columns
 
 :::{.column width=80%}
 :stop_sign: Once you're in a proprietary system, the owners' interest is inherently in
 keeping you there.
 
-:lock: Proprietary systems are often _not_ interoperable, by design.
-You cannot move freely between them.
+:lock: Proprietary systems are often _not_ interoperable, by design, so you can not freely move your work.
 
 :bug: Proprietary systems are often
 [as buggy](https://www.reddit.com/r/ArcGIS/comments/1dp7308/i_feel_like_esri_releases_buggy_af_updates/)
@@ -109,6 +107,9 @@ Something unexpected caused the tool to fail
 ::::::
 
 :::notes
+A major problem in this space is proprietary capture.
+Proprietary capture is not just about the money, it's a problem with how we do science.
+
 Often cloud users are enticed with initial ease of use and low costs.
 
 As cloud users continue building in a non-interoperable system, they accumulate inertia,
@@ -117,11 +118,15 @@ Additionally, they often discover that they require more services than they init
 assessed, and their costs increase unpredictably over time as it's easier to buy one
 more service than it is to migrate.
 
-Proprietary systems are often as buggy or buggier than open source alternatives, but
+Sometimes, the proprietary service shuts down, and existing science outputs cease to be
+reproducible.
+
+And proprietary systems are often as buggy or buggier than open source alternatives, but
 human biases like "sunk cost" cause us to be more forgiving towards software we've paid
 for.
 Perhaps because of this reduced accountability to their users, proprietary tools also
 often offer less respectful error messages than those found in community-owned software.
+On screen is a common error message ArcGIS users experience.
 :::
 
 
