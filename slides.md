@@ -130,7 +130,40 @@ On screen is a common error message ArcGIS users experience.
 :::
 
 
-## Moving forward as an open science community {.smaller}
+## Building a sustainable movement
+
+<br/><br/>
+
+> Together, we can
+> [**reimagine geospatial interactive computing**]{style="color: #f37626"}
+> to enable more researchers, educators, and learners to **confidently engage with
+> geospatial data**.
+
+:::notes
+GeoJupyter's answer to the status quo is a **sustainable** and **self-directing** community.
+
+Our community aims to employ user-centric design to combine the **approachability** and
+**playfulness** of desktop GIS tools, the **flexibility** and **reproducibility** of
+coding-driven GIS methods, and the **collaborative** and **storytelling** power of
+Jupyter.
+:::
+
+
+## GeoJupyter is... {.smaller}
+
+* 100% open source, modular and interoperable.
+* Cloud-native, can run anywhere (laptop, supercomputers, …)
+* Capable of:
+    * Traditional GIS workloads.
+    * Complex, code-driven workflows with earth/planetary data.
+    * Leveraging the entire Scientific Python ecosystem.
+* AI-ready
+* Locally controlled, private, secure
+* Vendor agnostic (including commercial AI)
+* Led at Berkeley, with US and international partners who are eager
+
+
+## Who is GeoJupyter? {.smaller}
 
 :::::::::columns
 
@@ -160,42 +193,11 @@ Photos?
 :::
 ::::::
 
-
 :::::::::
 
+Many more community members not shown.
 
-## A sustainable community
-
-:::{style="font-size: 1.5rem"}
-GeoJupyter's answer to the status quo is a **sustainable** and **self-directing** community.
-
-<br/>
-
-Our community aims to combine the **approachability** and **playfulness** of desktop GIS tools, the
-**flexibility** and **reproducibility** of coding-driven GIS methods, and the
-**collaborative** and **storytelling** power of Jupyter.
-:::
-
-<br/>
-
-Together, we can
-[**reimagine geospatial interactive computing**]{style="color: #f37626"}
-to enable more researchers, educators, and learners to **confidently engage with
-geospatial data**.
-
-
-## GeoJupyter is... {.smaller}
-
-* 100% open source, modular and interoperable.
-* Cloud-native, can run anywhere (laptop, supercomputers, …)
-* Capable of:
-    * Traditional GIS workloads.
-    * Complex, code-driven workflows with earth/planetary data.
-    * Leveraging the entire Scientific Python ecosystem.
-* AI-ready
-* Locally controlled, private, secure
-* Vendor agnostic (including commercial AI)
-* Led at Berkeley, with US and international partners who are eager
+:bow: Special thank you to our many interviewees! :bow:
 
 
 ---
