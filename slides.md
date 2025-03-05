@@ -90,18 +90,6 @@ Perhaps because of this reduced accountability to their users, proprietary tools
 often offer less respectful error messages than those found in community-owned software.
 :::
 
----
-
-* [FEMA National Risk Index](https://hazards.fema.gov/nri/) - Esri
-* [Africa GeoPortal](https://www.africageoportal.com/) - Esri
-* National, state, and county governments - Esri
-* Many universities push students towards proprietary tools - Esri
-
-
-:::notes
-TODO
-:::
-
 
 ## [When our community burned, where was the satellite data?](https://www.linkedin.com/pulse/when-our-community-burned-where-satellite-information-pag%C3%A1n-phd-8rxwf/?trackingId=goJI9VniOZAI3RGuoPXysA%3D%3D)
 
