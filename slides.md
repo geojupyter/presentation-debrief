@@ -130,6 +130,40 @@ On screen is a common error message ArcGIS users experience.
 :::
 
 
+## Moving forward as an open science community {.smaller}
+
+:::::::::columns
+
+::::::{.column width=33%}
+#### QuantStack
+
+:::{.placeholder style="background-color: lightgrey; width=200px; height: 400px; text-align: center;"}
+Photos
+:::
+::::::
+
+::::::{.column width=33%}
+#### Advisory committee
+
+:::{.placeholder style="background-color: lightgrey; width=200px; height: 400px; text-align: center;"}
+Photos
+:::
+::::::
+
+::::::{.column width=33%}
+#### Community champions?
+
+:::{.placeholder style="background-color: lightgrey; width=200px; height: 400px; text-align: center;"}
+Photos?
+
+"Welcome committee"?
+:::
+::::::
+
+
+:::::::::
+
+
 ## A sustainable community
 
 :::{style="font-size: 1.5rem"}
